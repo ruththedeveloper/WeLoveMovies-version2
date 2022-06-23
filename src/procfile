@@ -1,1 +1,2 @@
+database: npm run migrate && npm run seed
 web: node ./api/index.js
